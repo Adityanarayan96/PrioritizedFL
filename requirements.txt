@@ -1,0 +1,4 @@
+numpy==2.0.1
+Pillow==10.4.0
+torch==2.0.0.post101
+torchvision==0.15.2a0+ab7b3e6
