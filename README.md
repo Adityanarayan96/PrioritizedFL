@@ -15,7 +15,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone [<repository_url>](https://github.com/Adityanarayan96/PrioritizedFL.git)
+   git clone https://github.com/Adityanarayan96/PrioritizedFL.git
    cd PrioritizedFL
    ```
 
